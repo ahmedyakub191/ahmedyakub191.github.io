@@ -149,7 +149,7 @@ const Projects = () => {
                       >
                         <img
                           src={devpost}
-                          alt="Jan Ahmed"
+                          alt="Yakub Ahmed"
                           className="devpostpic"
                         />{" "}
                         Devpost
@@ -223,7 +223,7 @@ const Projects = () => {
                       >
                         <img
                           src={devpost}
-                          alt="Jan Ahmed"
+                          alt="Yakub Ahmed"
                           className="devpostpic"
                         />{" "}
                         Devpost
@@ -287,7 +287,7 @@ const Projects = () => {
                       >
                         <img
                           src={devpost}
-                          alt="Jan Ahmed"
+                          alt="Yakub Ahmed"
                           className="devpostpic"
                         />{" "}
                         Devpost
@@ -359,7 +359,7 @@ const Projects = () => {
                       >
                         <img
                           src={devpost}
-                          alt="Jan Ahmed"
+                          alt="Yakub Ahmed"
                           className="devpostpic"
                         />{" "}
                         Devpost
@@ -420,7 +420,11 @@ const Projects = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        <img src={web} alt="Jan Ahmed" className="devpostpic" />{" "}
+                        <img
+                          src={web}
+                          alt="Yakub Ahmed"
+                          className="devpostpic"
+                        />{" "}
                         Website
                       </a>
                     </p>

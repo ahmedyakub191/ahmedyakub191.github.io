@@ -36,7 +36,7 @@ const Header = () => {
       <div className="nav-container">
         <nav className="navbar">
           <div className="navbar-left">
-            <span className="navbar-brand">Jan Ahmed</span>
+            <span className="navbar-brand">Yakub Ahmed</span>
           </div>
           <button
             className={`sidebar-toggle ${showSidebar ? "active" : ""}`}
@@ -110,7 +110,7 @@ const Header = () => {
       <div className="nav-container">
         <nav className="navbar">
           <div className="navbar-left">
-            <span className="navbar-brand">Jan Ahmed</span>
+            <span className="navbar-brand">Yakub Ahmed</span>
           </div>
           <div className="navbar-right">
             <ul className="navbar-nav">

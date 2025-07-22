@@ -143,7 +143,11 @@ const Research = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        <img src={web} alt="Jan Ahmed" className="devpostpic" />{" "}
+                        <img
+                          src={web}
+                          alt="Yakub Ahmed"
+                          className="devpostpic"
+                        />{" "}
                         Website
                       </a>
                     </p>
@@ -256,7 +260,11 @@ const Research = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        <img src={web} alt="Jan Ahmed" className="devpostpic" />{" "}
+                        <img
+                          src={web}
+                          alt="Yakub Ahmed"
+                          className="devpostpic"
+                        />{" "}
                         Website
                       </a>
                     </p>
@@ -355,7 +363,11 @@ const Research = () => {
                     <h4>Visit</h4>
                     <p className="gitp">
                       <p>
-                        <img src={web} alt="Jan Ahmed" className="devpostpic" />{" "}
+                        <img
+                          src={web}
+                          alt="Yakub Ahmed"
+                          className="devpostpic"
+                        />{" "}
                         Website coming soon
                       </p>
                     </p>

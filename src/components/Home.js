@@ -15,7 +15,7 @@ const Home = () => {
   return (
     <div className="home-content">
       <div className="img-container">
-        <img src={janpic} alt="Jan Ahmed" className="profile-picture" />
+        <img src={janpic} alt="Yakub Ahmed" className="profile-picture" />
         <ul className="social-links">
           <li>
             <p className="linkscon">
@@ -67,7 +67,7 @@ const Home = () => {
         </ul>
       </div>
       <div className="container-home-content">
-        <h2>Hi there, I'm Jan.</h2>
+        <h2>Hi there, I'm Yakub.</h2>
         <h3>
           I'm a SDE1 at AWS and a mathematics researcher on the side who
           graduated Cum Laude in Spring 2024 with a B.S. in Computer Science and
