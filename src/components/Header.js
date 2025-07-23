@@ -72,16 +72,6 @@ const Header = () => {
               </li>
               <li className="nav-item">
                 <Link
-                  to="math"
-                  smooth={true}
-                  duration={500}
-                  className="nav-link"
-                >
-                  Math Research
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
                   to="experience"
                   smooth={true}
                   duration={500}
@@ -132,16 +122,6 @@ const Header = () => {
                   className="nav-link"
                 >
                   Projects
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  to="math"
-                  smooth={true}
-                  duration={500}
-                  className="nav-link"
-                >
-                  Math Research
                 </Link>
               </li>
               <li className="nav-item">

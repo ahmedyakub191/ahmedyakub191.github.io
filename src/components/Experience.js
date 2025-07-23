@@ -21,40 +21,33 @@ const Timeline = ({ title, events }) => (
 function Experience() {
   const educationEvents = [
     {
-      title: "University of Delaware",
-      description: "B.S. in Computer Science, 2020 - 2024",
+      title: "Czech Technical University in Prague ",
+      description: "Master's degree in Structural Engineering, 2024 - 2026",
     },
     {
-      title: "University of Delaware",
-      description: "B.S. in Applied Mathematics, 2020 - 2024",
+      title: "Czech Technical University in Prague ",
+      description: "Bachelor's degree in Civil Engineering, 2020 - 2024",
     },
   ];
 
   const experienceEvents = [
     {
-      title: "Amazon Web Services",
-      description: "SDE1, 2024 - Present",
-    },
-    { title: "University of Delaware", description: "Researcher 2022 - 2024" },
-    {
-      title: "Amazon Web Services",
-      description: "Software Engineer Intern, Summer 2023",
-    },
-    { title: "University of Delaware", description: "Researcher 2021 - 2022" },
-  ];
-
-  const teachingEvents = [
-    {
-      title: " University of Delaware",
-      description: "Classroom and Lab Assistant, 2022 - 2024",
+      title: "QARTA Architektura",
+      description: "Civil Engineer, 2024 - Present",
     },
     {
-      title: "University of Delaware",
-      description: "Homework and Exams Grader, 2022 - 2024",
+      title: "QARTA Architektura",
+      description: "Civil Engineer intern 2022 - 2024",
     },
     {
-      title: "University of Delaware",
-      description: "Mathematics tutor, 2021 - 2024",
+      title: "Czech Technical University in Prague",
+      description:
+        "Researcher - AI & Robotics in Construction , 2022 - Present",
+    },
+    {
+      title: "Freelance",
+      description:
+        "Self-employed - Laser Scanning & Documentation  2022 - Present",
     },
   ];
 
@@ -64,7 +57,6 @@ function Experience() {
       <div className="experience">
         <Timeline title="Education" events={educationEvents} />
         <Timeline title="Work Experience" events={experienceEvents} />
-        <Timeline title="Teaching" events={teachingEvents} />
       </div>
     </div>
   );

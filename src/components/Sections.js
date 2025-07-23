@@ -1,6 +1,5 @@
 // About.js
 import "../css/Sections.css";
-import Research from "./Research";
 import Home from "./Home";
 import Projects from "./Projects";
 // import Experience from "./Experience";
@@ -18,9 +17,6 @@ const Sections = () => {
       </section>
       <section className="slides" id="projects">
         <Projects></Projects>
-      </section>
-      <section className="slides" id="math">
-        <Research></Research>
       </section>
       <section className="slides" id="experience">
         <Experience></Experience>

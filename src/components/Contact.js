@@ -1,11 +1,6 @@
 // Contact.js
 import React from "react";
-import {
-  FaLinkedin,
-  FaGithub,
-  FaEnvelope,
-  FaGraduationCap,
-} from "react-icons/fa";
+import { FaLinkedin, FaEnvelope } from "react-icons/fa";
 import "../css/Contact.css"; // Import the stylesheet
 
 const Contact = () => {
@@ -16,37 +11,19 @@ const Contact = () => {
         <h2>Contact Me</h2>
         <p className="cnt">
           Feel free to reach out! You can contact me via email at{" "}
-          <a href="mailto:jan.ahmed.prg@gmail.com">
-            <FaEnvelope /> jan.ahmed.prg@gmail.com
+          <a href="mailto:ahmed.yakub191@gmail.com">
+            <FaEnvelope /> ahmed.yakub191@gmail.com
           </a>{" "}
           or connect with me on:
         </p>
         <ul className="social-links">
           <li>
             <a
-              href="https://www.linkedin.com/in/jan-ahmed/"
+              href="https://www.linkedin.com/in/yakub-ahmed-93573124a/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaLinkedin />
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://github.com/janahmedprg"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FaGithub />
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://scholar.google.com/citations?user=1xvIicQAAAAJ"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FaGraduationCap />
             </a>
           </li>
           {/* Add more social media links as needed */}
