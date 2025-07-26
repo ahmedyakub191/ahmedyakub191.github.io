@@ -20,7 +20,7 @@ const Home = () => {
           <li>
             <p className="linkscon">
               <a
-                href="https://www.linkedin.com/in/yakub-ahmed-93573124a/"
+                href="https://www.linkedin.com/in/yakub-ahmed1/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -40,7 +40,7 @@ const Home = () => {
         <p>
           I enjoy designing and implementing structural systems. When I'm not
           stydying or working, I also enjoy going to the gym, playing soccer,
-          skiing and golfing.
+          skiing, tennis and golfing.
         </p>
         <p style={{ marginBottom: "0px" }}>Fun facts about me:</p>
         <ul style={{ marginTop: "0px" }}>
