@@ -84,9 +84,9 @@ const Projects = () => {
                       and documentation in compliance with Czech/European
                       building codes. Participated in on-site surveys, reviewed
                       construction quality and progress according to plans and
-                      consulted with contractors during construction
-                      phases.Performed structural analysis calculations for a
-                      steel support frame carrying an HVAC air handling unit.
+                      consulted with contractors during construction phases.
+                      Performed structural analysis calculations for a steel
+                      support frame carrying an HVAC air handling unit.
                     </p>
                   </div>
                   <div className="vid">
