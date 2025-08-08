@@ -63,3 +63,37 @@
     font-size: 13pt;
     margin: 0px 20px;
   } 
+
+@media (max-width: 650px) { 
+  .experience .container {
+    width: 100%;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  .experience {
+    display: flex;
+    justify-content: space-around;
+    padding: 0px;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .experience .container h2 {
+    color: #333;
+    margin-top: 0px;
+    font-size: 24pt;
+  }
+
+  .experience .container .timeline h4 {
+    color: #333;
+    font-size: 16pt;
+    margin: 0px 20px;
+  }
+  .experience .container .timeline p {
+    color: #333;
+    font-size: 13pt;
+    margin: 0px 20px;
+  } 
+
+}

@@ -201,7 +201,7 @@
         margin: 0px;
     }
     .selections > .project-item{
-        width: 120px;
+        width: 135px;
         margin-top: 0px;
         margin-bottom: 10px;
     }
@@ -232,7 +232,7 @@
         text-align: left;
     }
     .project-card-con>.project{
-        margin: 0px 20px;
+        margin: 0px;
         padding: 0px 10px;
         padding-bottom: 10px;
     }
@@ -503,6 +503,9 @@
   }
   .research-info-con>.vid>video{
       height: 80px;
+  }
+  .research-info-con>.vid>img{
+      height: 80px !important;
   }
   .research-info-con>.git {
       grid-area: auto;
