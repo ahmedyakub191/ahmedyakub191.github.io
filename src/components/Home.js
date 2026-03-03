@@ -33,8 +33,8 @@ const Home = () => {
       <div className="container-home-content">
         <h2>Hi there, I'm Yakub.</h2>
         <h3>
-          I'm a Structural Engineer and a Masters student graduating in February
-          2026 form the Czech Technical University in Prague.
+          I'm a Structural Engineer and a PhD student form the Czech Technical
+          University in Prague.
         </h3>
 
         <p>
